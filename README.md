@@ -7,6 +7,6 @@
 - ⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the observable universe...
 
 <!---
-indeediamkiran/indeediamkiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+indeediamkiran/indeediamkiran is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
